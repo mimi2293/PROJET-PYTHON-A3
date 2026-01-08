@@ -1,5 +1,5 @@
 # Mode d’exécution
-MODE = "LOCAL"   # "LOCAL" ou "ANSSI"
+MODE = "LOCAL"   
 
 # Chemin données locales (mode LOCAL)
 BASE_PATH = r"C:\Users\khouj\Downloads\data_pour_TD_final_2026"
